@@ -11,7 +11,7 @@ class App extends Component {
 			url: 'https://www.google.com',
 			isEnabled: true,
 			message: 'This is the default message.',
-			location: '3',
+			location: 3,
 			leadCount: 1826,
 			effect: 'fadeIn'
 		};

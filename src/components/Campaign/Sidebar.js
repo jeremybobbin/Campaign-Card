@@ -32,14 +32,14 @@ const Trash = ({onClick}) =>
 const Person = ({onClick}) =>
     <input type='image'
         className={`icon person`}
-        src={'https://image.flaticon.com/icons/svg/74/74472.svg'}
+        src={'https://image.flaticon.com/icons/svg/126/126486.svg'}
         onClick={(e) => onClick(e)}
     />;
 
 const Cog = ({onClick}) => 
     <input type='image'
         className={`icon cog`}
-        src={'https://image.flaticon.com/icons/svg/70/70367.svg'}
+        src={'https://image.flaticon.com/icons/svg/1/1850.svg'}
         onClick={(e) => onClick(e)}
     />;
 
